@@ -14,3 +14,4 @@ while  numero<=10:
 
 print("Carolina")
 print("ensayo")
+print("prueba")
